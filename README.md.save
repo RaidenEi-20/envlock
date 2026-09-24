@@ -23,7 +23,7 @@ Option 2: Build from Source
 
 Ensure you have Rust and Cargo installed:
 
-git clone https://github.com/efetan/envlock.git
+git clone https://github.com/RaidenEi-20/envlock
 cd envlock
 cargo install --path .
 🛠️ Quick Start & Workflow
